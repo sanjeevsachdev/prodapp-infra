@@ -12,5 +12,5 @@ images:
   newTag: 1.20.0
 
 replicas:
-- count: 4
+- count: 1
   name: gagan-nginx-deployment
